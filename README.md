@@ -1,4 +1,4 @@
-# **Airbnb NYC Price Prediction — Machine Learning Project Report**
+# **Airbnb NYC Price Prediction Machine Learning Project Report**
 
 ## **1. Introduction**
 
